@@ -7,7 +7,6 @@ This repository contains the backend code for a social media app. It provides th
 - User authentication and authorization
 - User profile management
 - Post creation, retrieval, and deletion
-- Commenting on posts
 - User interaction and social connections (e.g., following, followers)
 - Notifications and messaging system
 - Search functionality
