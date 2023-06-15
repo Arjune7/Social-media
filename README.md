@@ -19,6 +19,5 @@ This repository contains the backend code for a social media app. It provides th
 - MongoDB - NoSQL database for data storage
 - Mongoose - Object Data Modeling (ODM) library for MongoDB
 - Socket.io - Real-time communication library
-- Passport.js - Authentication middleware
 - JSON Web Tokens (JWT) - Token-based authentication
 - Bcrypt.js - Password hashing
